@@ -1,1 +1,2 @@
-# C40-CARRACINGGAME
+# synchronousBallMovement
+Ball moving synchronously
